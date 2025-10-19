@@ -1,0 +1,8 @@
+C:\Users\ARDOR\source\repos\OOP\task2\bin\Debug\task2.exe.config
+C:\Users\ARDOR\source\repos\OOP\task2\bin\Debug\task2.exe
+C:\Users\ARDOR\source\repos\OOP\task2\bin\Debug\task2.pdb
+C:\Users\ARDOR\source\repos\OOP\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\ARDOR\source\repos\OOP\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\source\repos\OOP\task2\obj\Debug\task2.exe
+C:\Users\ARDOR\source\repos\OOP\task2\obj\Debug\task2.pdb
+C:\Users\ARDOR\source\repos\OOP\task2\obj\Debug\task2.exe.config
