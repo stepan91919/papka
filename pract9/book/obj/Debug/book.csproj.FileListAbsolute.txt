@@ -1,0 +1,8 @@
+C:\Users\ARDOR\source\repos\pract9\book\bin\Debug\book.exe.config
+C:\Users\ARDOR\source\repos\pract9\book\bin\Debug\book.exe
+C:\Users\ARDOR\source\repos\pract9\book\bin\Debug\book.pdb
+C:\Users\ARDOR\source\repos\pract9\book\obj\Debug\book.csproj.AssemblyReference.cache
+C:\Users\ARDOR\source\repos\pract9\book\obj\Debug\book.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\source\repos\pract9\book\obj\Debug\book.exe
+C:\Users\ARDOR\source\repos\pract9\book\obj\Debug\book.pdb
+C:\Users\ARDOR\source\repos\pract9\book\obj\Debug\book.exe.config
