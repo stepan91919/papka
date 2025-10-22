@@ -9,64 +9,51 @@ namespace task5
     class Animal
     {
         private string name;
-        private int age;
 
-
-
-        public Animal(string animalName, int animalAge)
+        public Animal(string animalName)
         {
-
             name = animalName;
-
-            if (animalAge >= 0 && animalAge <= 50)
-            {
-                age = animalAge;
-            }
-            else
-            {
-                Console.WriteLine("Возраст ЗВЕРЯ должен быть от 0 до 50!!");
-                age = 0;
-
-            }
         }
 
-        public void makeSound()
-
+        public void speak()
         {
-            Console.WriteLine($"{name} издает вопль. (возраст: {age})");
+            Console.WriteLine($"{name} мяукает.");
         }
 
         public string getName()
-
         {
             return name;
         }
-
-        public int getAge()
-        {
-            return age;
-        }
-
     }
 
     class Cat : Animal
     {
+        private int lives;
 
-
-
-        private string color;
-
-        public Cat(string catName, int catAge, string catColor) : base(catName, catAge)
+        public Cat(string catName, int catLives) : base(catName)
         {
-            color = catColor;
+            if (catLives >= 1 && catLives <= 9)
+            {
+                lives = catLives;
+            }
+            else
+            {
+                Console.WriteLine("Количество жизней должно быть от 1 до 9");
+                lives = 9;
+            }
         }
 
+        public Cat(string catName) : this(catName, 9)
+        {
+        }
 
         public void meow()
         {
-
-            Console.WriteLine($"{getName()} (цвет: {color}) говорит: Мяу!");
+            if (lives > 1)
+            {
+                lives--;
+            }
+            Console.WriteLine($"{getName()} мяукнул и теперь осталось жизней: {lives}.");
         }
     }
-
 }

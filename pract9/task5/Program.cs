@@ -10,15 +10,18 @@ namespace task5
     {
         static void Main(string[] args)
         {
-            Cat cat1 = new Cat("Барсик", 3, "серый");
-            cat1.makeSound();
+            Cat cat1 = new Cat("Мурзик", 9);
+            Cat cat2 = new Cat("Барсик");
+
+            cat1.speak();
+            cat1.meow();
             cat1.meow();
 
-            Cat cat2 = new Cat("Мурка", 55, "рыжий"); 
-            cat2.makeSound();
+            cat2.speak();
             cat2.meow();
 
             Console.ReadLine();
         }
     }
+
 }
