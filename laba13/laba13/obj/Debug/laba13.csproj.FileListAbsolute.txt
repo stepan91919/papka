@@ -1,0 +1,7 @@
+C:\Users\ARDOR\source\repos\laba13\laba13\bin\Debug\laba13.exe.config
+C:\Users\ARDOR\source\repos\laba13\laba13\bin\Debug\laba13.exe
+C:\Users\ARDOR\source\repos\laba13\laba13\bin\Debug\laba13.pdb
+C:\Users\ARDOR\source\repos\laba13\laba13\obj\Debug\laba13.csproj.AssemblyReference.cache
+C:\Users\ARDOR\source\repos\laba13\laba13\obj\Debug\laba13.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\source\repos\laba13\laba13\obj\Debug\laba13.exe
+C:\Users\ARDOR\source\repos\laba13\laba13\obj\Debug\laba13.pdb
