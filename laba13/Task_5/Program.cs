@@ -16,13 +16,13 @@ namespace Task_5
             Reptile snake = new Reptile("Питон", 4, "Джунгли", "Грызуны", "Чешуйчатая", 30);
             Fish shark = new Fish("Акула", 12, "Океан", "Рыба", "Гладкая", 200);
 
-            Console.WriteLine("Каталог животных");
+            Console.WriteLine("Каталог животных:");
             lion.DisplayInfo(); Console.WriteLine();
             eagle.DisplayInfo(); Console.WriteLine();
             snake.DisplayInfo(); Console.WriteLine();
             shark.DisplayInfo(); Console.WriteLine();
 
-            Console.WriteLine("действия животных");
+            Console.WriteLine("действия животных:");
             lion.MakeSound(); lion.FeedMilk();
             eagle.MakeSound(); eagle.Fly();
             snake.MakeSound(); snake.Sunbathe();

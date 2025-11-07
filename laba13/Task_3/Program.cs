@@ -15,13 +15,13 @@ namespace Task_3
             DVD d = new DVD("Интерстеллар", "К. Нолан", 2014, 169, "PG-13");
             Audiobook a = new Audiobook("Преступление и наказание", "Ф. Достоевский", 2020, 720, "Сергей Чонишвили");
 
-            Console.WriteLine("Материалы библиотеки");
+            Console.WriteLine("Материалы библиотеки: ");
             b.DisplayInfo(); Console.WriteLine();
             m.DisplayInfo(); Console.WriteLine();
             d.DisplayInfo(); Console.WriteLine();
             a.DisplayInfo(); Console.WriteLine();
 
-            Console.WriteLine("Проверка выдачи");
+            Console.WriteLine("Проверка выдачи: ");
             b.Borrow();
             b.Borrow();
             b.Return();

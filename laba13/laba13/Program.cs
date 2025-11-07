@@ -14,7 +14,7 @@ namespace Task_1
             Developer d = new Developer("Петр", 60000, DateTime.Now.AddYears(-1), "C#");
             Director dir = new Director("Анна", 120000, DateTime.Now.AddYears(-5), "ИТ");
 
-            Console.WriteLine("Информация о сотрудниках ");
+            Console.WriteLine("Информация о сотрудниках: ");
             m.DisplayInfo(); Console.WriteLine();
             d.DisplayInfo(); Console.WriteLine();
             dir.DisplayInfo(); Console.WriteLine();
