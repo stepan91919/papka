@@ -1,0 +1,7 @@
+C:\Users\ARDOR\source\repos\Laba15\Task3\bin\Debug\Task3.exe.config
+C:\Users\ARDOR\source\repos\Laba15\Task3\bin\Debug\Task3.exe
+C:\Users\ARDOR\source\repos\Laba15\Task3\bin\Debug\Task3.pdb
+C:\Users\ARDOR\source\repos\Laba15\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\ARDOR\source\repos\Laba15\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\source\repos\Laba15\Task3\obj\Debug\Task3.exe
+C:\Users\ARDOR\source\repos\Laba15\Task3\obj\Debug\Task3.pdb

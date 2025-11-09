@@ -1,0 +1,8 @@
+C:\Users\ARDOR\source\repos\Laba15\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\ARDOR\source\repos\Laba15\Task_4\bin\Debug\Task_4.exe
+C:\Users\ARDOR\source\repos\Laba15\Task_4\bin\Debug\Task_4.pdb
+C:\Users\ARDOR\source\repos\Laba15\Task_4\obj\Debug\Task_4.csproj.AssemblyReference.cache
+C:\Users\ARDOR\source\repos\Laba15\Task_4\obj\Debug\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\source\repos\Laba15\Task_4\obj\Debug\Task_4.exe
+C:\Users\ARDOR\source\repos\Laba15\Task_4\obj\Debug\Task_4.pdb
+C:\Users\ARDOR\source\repos\Laba15\Task_4\obj\Debug\Task_4.exe.config
