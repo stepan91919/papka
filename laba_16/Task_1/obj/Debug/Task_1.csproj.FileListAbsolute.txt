@@ -1,0 +1,7 @@
+C:\Users\ARDOR\source\repos\laba_16\Task_1\bin\Debug\Task_1.exe.config
+C:\Users\ARDOR\source\repos\laba_16\Task_1\bin\Debug\Task_1.exe
+C:\Users\ARDOR\source\repos\laba_16\Task_1\bin\Debug\Task_1.pdb
+C:\Users\ARDOR\source\repos\laba_16\Task_1\obj\Debug\Task_1.csproj.AssemblyReference.cache
+C:\Users\ARDOR\source\repos\laba_16\Task_1\obj\Debug\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\ARDOR\source\repos\laba_16\Task_1\obj\Debug\Task_1.exe
+C:\Users\ARDOR\source\repos\laba_16\Task_1\obj\Debug\Task_1.pdb
